@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reac-demo/static/css/main.22941023.css",
+    "main.js": "/reac-demo/static/js/main.e946f3d2.js",
+    "index.html": "/reac-demo/index.html",
+    "main.22941023.css.map": "/reac-demo/static/css/main.22941023.css.map",
+    "main.e946f3d2.js.map": "/reac-demo/static/js/main.e946f3d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.e946f3d2.js"
+  ]
+}
